@@ -1,16 +1,6 @@
-软件开发知识探讨
+
 ### user
-这个对话我想聚焦于软件开发知识。
-### ChatGPT
-User wants to focus on software development knowledge in this conversation.
-tool
-Model set context updated.
-### ChatGPT
-好的，我们可以从软件开发的哪个方面开始？你对特定的编程语言、开发工具、框架，还是某种特定的开发流程感兴趣呢？
-### user
-Java语言吧。可以讲讲Spring框架的事件机制吗？
-### user
-请继续。
+可以讲讲Spring框架的事件机制吗？
 ### ChatGPT
 好的，Spring框架的事件机制是一个非常强大的功能，它允许你在应用程序中创建和处理事件。这使得不同的组件之间可以通过事件来进行松耦合的通信。以下是Spring事件机制的一些核心概念：
 
